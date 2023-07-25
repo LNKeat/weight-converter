@@ -1,0 +1,19 @@
+{
+  "name": "weight-converter",
+  "version": "1.0.0",
+  "description": "SPA using Bootstrap 4 and vanilla JS",
+  "main": "index.js",
+  "scripts": {
+    "start": "open http://localhost:3000 && node server.js"
+  },
+  "author": "Laura",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LNKeat/weight-converter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LNKeat/weight-converter/issues"
+  },
+  "homepage": "https://github.com/LNKeat/weight-converter#readme"
+}
